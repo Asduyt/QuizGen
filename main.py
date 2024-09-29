@@ -1,5 +1,5 @@
 """
-AUTHORS: Jossie Batisso, AnhDuy Tran, and Aswanth Jeryam Kumar
+AUTHORS: Jossie Batisso, AnhDuy Tran, and Aswanth Jeyaram Kumar
 @HACKUMBC2024
 """
 
